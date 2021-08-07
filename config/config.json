@@ -2,7 +2,7 @@
   "development": {
     "username": "ariemaywibowo",
     "password": null,
-    "database": "chapter7",
+    "database": "chapter7a",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
